@@ -3,4 +3,5 @@
 
 ## Comandos
 Para rodar o Back-end: node server.js
+<br>
 Para rodar o Front-end: npm start
